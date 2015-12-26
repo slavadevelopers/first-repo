@@ -1,4 +1,4 @@
 print('Helo word');
 print('Helo evrebody')
 print('Hello!')
-print('Привет')
+print('Privet')
