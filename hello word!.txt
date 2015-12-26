@@ -1,4 +1,5 @@
 print('Helo word');
-print('Helo evrebody')
-print('Hello!')
-print('Privet')
+print('Helo evrebody');
+print('Hello!');
+print('Privet');
+print('Glad to see...');
