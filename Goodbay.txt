@@ -1,1 +1,2 @@
 print('Goodbay!');
+Print('New print!');
